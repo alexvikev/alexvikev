@@ -2,8 +2,11 @@
 
 ### Обо мне:
 <div>
-   <p>Я тестировщик. В профессии чуть больше трех лет. В основном занимался тестированием веб-приложений (90 фронт/10 бэк).
-    Ниже представлены инструменты, которые я использовал для работы. В настоящий момент ищу работу, где смогу применить знания в автоматизации тестирования API или UI.</p>
+   <p>
+    Я тестировщик. В профессии чуть больше трех лет. В основном занимался тестированием веб-приложений (90 фронт/10 бэк).
+    Ниже представлены инструменты, которые я использовал для работы. В настоящий момент ищу работу, где смогу применить знания в автоматизации тестирования API или UI.
+  </p>
+
     <img src="assets/tester.webp" alt="tester" />
 </div>
 
@@ -27,6 +30,7 @@
 <div>
     <img src="assets/icons8-java.svg" title="java" alt="java" width="40" height="40"/>&nbsp
     <img src="assets/icons8-selenium.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
+    <img src="assets/rest_assured.png" title="rest_assured" alt="rest_assured" width="40" height="40"/>&nbsp
     <img src="assets/icons8-jenkins.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp
     <img src="assets/allure.svg" title="allure" alt="allure" width="40" height="40"/>&nbsp
 </div>
